@@ -3,6 +3,7 @@
 
 # build files
 build/
+build_debug/
 
 # editor config
 .vscode/
